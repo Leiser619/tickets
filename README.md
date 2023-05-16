@@ -33,10 +33,6 @@ List the ready features here:
 - Postgres
 - Spring security
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
 
 ## Setup
 You have to create db tickets in postgres then you have to start the project
@@ -98,4 +94,4 @@ Room for improvement:
 - Improvement to sending email becouse it is so slow
 
 ## Contact
-Created by [Dawid Brzeski](dawidsd123@gmail.com) - feel free to contact me!
+Created by [Dawid Brzeski](https://github.com/Leiser619) [dawidsd123@gmail.com](https://gmail.com)- feel free to contact me!
