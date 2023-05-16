@@ -22,7 +22,6 @@
 ## Technologies Used
 - Java - version 17
 - Spring Boot - 3.0.6
-- Tech 3 - version 3.0
 
 
 ## Features
